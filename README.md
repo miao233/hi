@@ -1,2 +1,2 @@
 # hi
-say hello.
+## hi there ! 😊
